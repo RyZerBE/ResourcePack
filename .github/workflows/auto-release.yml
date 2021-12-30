@@ -1,0 +1,55 @@
+name: "Release"
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  update-pack-version:
+    name: "Update pack version, Secure pack & Release"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run the version change script
+        run: "php increase-pack-version.php"
+
+      - name: "Commit files"
+        run: |
+          git config --local user.name "Suck me hidik"
+          git add pack/manifest.json
+          git commit -m "Updated pack version"
+
+
+
+      - name: "Push changes"
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
+          tags: true
+      - name: "Secure pack"
+        run: |
+          chmod +x secure.php
+          php secure.php
+
+      - name: "Create Release"
+        run: |
+          cd pack/
+          zip -r ../Resource-Pack.zip *
+          echo "Done!"
+
+      - name: "Create Release secured"
+        run: |
+          cd output/
+          zip -r ../Resource-Pack-secured.zip *
+          echo "Done!"
+
+      - uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "latest"
+          prerelease: true
+          title: "Release"
+          files: |
+            Resource-Pack.zip
+            Resource-Pack-secured.zip
