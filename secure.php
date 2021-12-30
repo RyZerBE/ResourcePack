@@ -28,7 +28,6 @@ $affectedFiles = 0;
 $basePath = dirname(__FILE__) . DIRECTORY_SEPARATOR;
 $inputPath = $basePath . "pack" . DIRECTORY_SEPARATOR;
 $outputPath = $basePath . "output" . DIRECTORY_SEPARATOR;
-
 if ($config["enable-copyright-header"] && !file_exists("{$basePath}copyright_notice.txt")) {
 	file_put_contents($basePath . "copyright_notice.txt", "");
 }
