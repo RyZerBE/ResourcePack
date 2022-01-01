@@ -4,14 +4,26 @@
         "description": "provided by YockerFX & discord.texturepack.be",
         "name": "Ryzer.be",
         "uuid": "b43c0a55-d349-4f86-87eb-b61402598308",
-        "version": [1, 1, 6],
-        "min_engine_version": [1, 16, 0]
+        "version": [
+            1,
+            1,
+            7
+        ],
+        "min_engine_version": [
+            1,
+            16,
+            0
+        ]
     },
     "modules": [
         {
             "type": "resources",
             "uuid": "63e7ff1e-3b81-48f6-aed1-d6097846500d",
-            "version": [1, 1, 6]
+            "version": [
+                1,
+                1,
+                6
+            ]
         }
     ]
 }
