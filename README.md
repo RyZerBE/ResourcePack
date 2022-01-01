@@ -15,7 +15,7 @@ Emojis werden noch geupdatet ich mache sie jetzt erstmal nur in die Liste!
 |             smirk                   |          |  8      |![8](https://cdn.discordapp.com/attachments/926824646735716355/926833839484071956/9.png)|
 |             clown                   |          |  9      |![9](https://cdn.discordapp.com/attachments/926824646735716355/926836573645979718/10.png)|
 |             woozy                   |          |  0A      |![0A](https://cdn.discordapp.com/attachments/926824646735716355/926838176344076298/11.png)|
-|             cry                   |          |  0B      |![0B](https://cdn.discordapp.com/attachments/926824646735716355/926870005365227540/12.png)|
+|             cry                   |          |  0B      |![0B](https://cdn.discordapp.com/attachments/926824646735716355/926962436383338536/876482512426238083.png)|
 |             sherlock                   |          |  0C      |![0C](https://cdn.discordapp.com/attachments/926824646735716355/926872891805556806/13.png)|
 |             surprised                   |          |  0D      |![0D](https://cdn.discordapp.com/attachments/926824646735716355/926959496784388116/0D.png)|
 |             derp                   |          |  0E      |![0E](https://cdn.discordapp.com/attachments/926824646735716355/926959497069604965/0E.png)|
