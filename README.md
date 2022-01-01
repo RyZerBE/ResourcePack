@@ -14,4 +14,5 @@ Emojis werden noch geupdatet ich mache sie jetzt erstmal nur in die Liste!
 |             sunglasses                   |     All      |          |  -      |![8](https://cdn.discordapp.com/attachments/926824646735716355/926833818701279302/8.png)|
 |             smirk                   |     All      |          |  -      |![9](https://cdn.discordapp.com/attachments/926824646735716355/926833839484071956/9.png)|
 |             clown                   |     All      |          |  -      |![10](https://cdn.discordapp.com/attachments/926824646735716355/926836573645979718/10.png)|
-|             confused                   |     All      |          |  -      |![11](https://cdn.discordapp.com/attachments/926824646735716355/926838176344076298/11.png)|
+|             woozy                   |     All      |          |  -      |![11](https://cdn.discordapp.com/attachments/926824646735716355/926838176344076298/11.png)|
+|             salt                   |     All      |          |  -      |![33](https://cdn.discordapp.com/attachments/926824646735716355/926858736079888435/33.png)|
