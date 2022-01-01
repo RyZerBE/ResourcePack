@@ -17,6 +17,10 @@ Emojis werden noch geupdatet ich mache sie jetzt erstmal nur in die Liste!
 |             woozy                   |          |  0A      |![0A](https://cdn.discordapp.com/attachments/926824646735716355/926838176344076298/11.png)|
 |             cry                   |          |  0B      |![0B](https://cdn.discordapp.com/attachments/926824646735716355/926870005365227540/12.png)|
 |             sherlock                   |          |  0C      |![0C](https://cdn.discordapp.com/attachments/926824646735716355/926872891805556806/13.png)|
+|             surprised                   |          |  0D      |![0D](https://cdn.discordapp.com/attachments/926824646735716355/926959496784388116/0D.png)|
+|             derp                   |          |  0E      |![0E](https://cdn.discordapp.com/attachments/926824646735716355/926959497069604965/0E.png)|
+|             angry                   |          |  0F      |![0F](https://cdn.discordapp.com/attachments/926824646735716355/926959497363197993/0F.png)|
+|             money                   |          |  10      |![10](https://cdn.discordapp.com/attachments/926824646735716355/926959497778450452/10.png)|
 |             salt                   |          |  20      |![20](https://cdn.discordapp.com/attachments/926824646735716355/926858736079888435/33.png)|
 |             thinkingc                   |          |  D0      |![D0](https://cdn.discordapp.com/attachments/926824646735716355/926920165654921296/D0.png)|
 |             hmmm                   |          |  D1      |![D1](https://cdn.discordapp.com/attachments/926824646735716355/926920165969522768/D1.png)|
