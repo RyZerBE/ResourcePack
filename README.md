@@ -21,6 +21,8 @@ Emojis werden noch geupdatet ich mache sie jetzt erstmal nur in die Liste!
 |             derp                   |          |  0E      |![0E](https://cdn.discordapp.com/attachments/926824646735716355/926959497069604965/0E.png)|
 |             angry                   |          |  0F      |![0F](https://cdn.discordapp.com/attachments/926824646735716355/926959497363197993/0F.png)|
 |             money                   |          |  10      |![10](https://cdn.discordapp.com/attachments/926824646735716355/926959497778450452/10.png)|
+|             scream                   |          |  11      |![11](https://cdn.discordapp.com/attachments/926824646735716355/926983408322740264/11.png)|
+|             sleepy                   |          |  12      |![12](https://cdn.discordapp.com/attachments/926824646735716355/926983408536658000/12.png)|
 |             salt                   |          |  20      |![20](https://cdn.discordapp.com/attachments/926824646735716355/926858736079888435/33.png)|
 |             trash                   |          |  21      |![21](https://cdn.discordapp.com/attachments/926824646735716355/926971119653748776/21.png)|
 |             thinkingc                   |          |  D0      |![D0](https://cdn.discordapp.com/attachments/926824646735716355/926920165654921296/D0.png)|
