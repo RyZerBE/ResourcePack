@@ -18,6 +18,6 @@ Emojis werden noch geupdatet ich mache sie jetzt erstmal nur in die Liste!
 |             cry                   |          |  0B      |![0B](https://cdn.discordapp.com/attachments/926824646735716355/926870005365227540/12.png)|
 |             sherlock                   |          |  0C      |![0C](https://cdn.discordapp.com/attachments/926824646735716355/926872891805556806/13.png)|
 |             salt                   |          |  20      |![20](https://cdn.discordapp.com/attachments/926824646735716355/926858736079888435/33.png)|
-|             thinkingc                   |          |  D0      |![D0](https://cdn.discordapp.com/attachments/926824646735716355/926858736079888435/33.png)|
-|             hmmm                   |          |  D1      |![D1](https://cdn.discordapp.com/attachments/926824646735716355/926858736079888435/33.png)|
+|             thinkingc                   |          |  D0      |![D0](https://cdn.discordapp.com/attachments/926824646735716355/926920165654921296/D0.png)|
+|             hmmm                   |          |  D1      |![D1](https://cdn.discordapp.com/attachments/926824646735716355/926920165969522768/D1.png)|
 |             Yocker                   |          |  FF      |![FF](https://cdn.discordapp.com/attachments/926824646735716355/926917224936144956/yes.png)|
