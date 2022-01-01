@@ -15,7 +15,7 @@ jobs:
 
       - name: "Commit files"
         run: |
-          git config --local user.name "Suck me hidik"
+          git config --local user.name "xxAROX"
           git add pack/manifest.json
           git commit -m "Updated pack version"
 
