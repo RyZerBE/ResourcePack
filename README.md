@@ -1,4 +1,5 @@
 ﻿# ResourcePack
+Emojis werden noch geupdatet ich mache sie jetzt erstmal nur in die Liste!
  > <h2>List Unicode</h2>
  
 |               Name               |   Platform   | Character | Unicode |                     In game                    |
@@ -10,3 +11,7 @@
 |             tear                   |     All      |          |  -      |![5](https://cdn.discordapp.com/attachments/926824646735716355/926824689765085194/5.png)|
 |             thinking                   |     All      |          |  -      |![6](https://cdn.discordapp.com/attachments/926824646735716355/926824692252286976/6.png)|
 |             confused                   |     All      |          |  -      |![7](https://cdn.discordapp.com/attachments/926824646735716355/926824692470382603/7.png)|
+|             sunglasses                   |     All      |          |  -      |![8](https://cdn.discordapp.com/attachments/926824646735716355/926833818701279302/8.png)|
+|             smirk                   |     All      |          |  -      |![9](https://cdn.discordapp.com/attachments/926824646735716355/926833839484071956/9.png)|
+|             clown                   |     All      |          |  -      |![10](https://cdn.discordapp.com/attachments/926824646735716355/926836573645979718/10.png)|
+|             confused                   |     All      |          |  -      |![11](https://cdn.discordapp.com/attachments/926824646735716355/926838176344076298/11.png)|
