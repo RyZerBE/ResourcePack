@@ -1,7 +1,6 @@
 # ResourcePack
 Emojis werden noch geupdatet ich mache sie jetzt erstmal nur in die Liste!
- > <h2>List Unicode</h2>
- 
+### List Unicode
 |               Name               | Character | Nummer |                     In game                    |
 |:--------------------------------:|:---------:|:-------:|:----------------------------------------------:|
 |             happy                   |          |  0      |![0](https://cdn.discordapp.com/attachments/926824646735716355/926824692730441738/1.png)|
