@@ -12,11 +12,11 @@
 			{
 				"main": {
 					"type": "image",
-					"texture": "textures/items/record_cat",
+					"texture": "textures/ui/scoreboards/dark",
 					"alpha": 0.5,
 					"size": [
-						"100%cm",
-						"100%c + 40"
+						"100%cm+3px",
+						"100%c +5px"
 					],
 					"controls": [
 						{
@@ -47,7 +47,7 @@
 												{
 													"binding_type": "global",
 													"binding_name": "#objective_sidebar_name",
-													"binding_name_override": "#texture"
+													"binding_name_override": "textures/ui/scoreboards/goose"
 												}
 											]
 										}
