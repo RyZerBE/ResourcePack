@@ -12,7 +12,7 @@
 			{
 				"main": {
 					"type": "image",
-					"texture": "textures/ui/dark",
+					"texture": "textures/items/record_cat",
 					"alpha": 0.5,
 					"size": [
 						"100%cm",
