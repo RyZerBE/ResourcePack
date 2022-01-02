@@ -47,7 +47,7 @@
 												{
 													"binding_type": "global",
 													"binding_name": "#objective_sidebar_name",
-													"binding_name_override": "textures/ui/scoreboards/goose"
+													"binding_name_override": "#texture"
 												}
 											]
 										}
