@@ -25,7 +25,7 @@ Emojis werden noch geupdatet ich mache sie jetzt erstmal nur in die Liste!
 |             sleepy                   |          |  12      |![12](https://cdn.discordapp.com/attachments/926824646735716355/926983408536658000/12.png)|
 |             salt                   |          |  20      |![20](https://cdn.discordapp.com/attachments/926824646735716355/926858736079888435/33.png)|
 |             trash                   |          |  21      |![21](https://cdn.discordapp.com/attachments/926824646735716355/926971119653748776/21.png)|
-|             thinkingc                   |          |  D0      |![D0](https://cdn.discordapp.com/attachments/926824646735716355/926920165654921296/D0.png)|
+|             thinkies                 |          |  D0      |![D0](https://cdn.discordapp.com/attachments/926824646735716355/926920165654921296/D0.png)|
 |             hmmm                   |          |  D1      |![D1](https://cdn.discordapp.com/attachments/926824646735716355/926920165969522768/D1.png)|
 |             feelsbadman                   |          |  D2      |![D2](https://cdn.discordapp.com/attachments/926824646735716355/926971119897047040/D2.png)|
 |             penguin                   |          |  D3      |![D3](https://cdn.discordapp.com/attachments/926824646735716355/926971120131923998/D3.png)|
