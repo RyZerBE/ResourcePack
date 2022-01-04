@@ -56,29 +56,6 @@
 							}
 						},
 						{
-							"displayed_objective": {
-								"type": "label",
-								"size": [
-									"default",
-									10
-								],
-								"text": "#objective_sidebar_name",
-								"anchor_from": "top_middle",
-								"anchor_to": "top_middle",
-								"text_alignment": "center",
-								"inherit_max_sibling_width": true,
-								"locked_alpha": 2.0,
-								"layer": 1,
-								"color": "$objective_title_color",
-								"bindings": [
-									{
-										"binding_name": "#objective_sidebar_name",
-										"binding_type": "global"
-									}
-								]
-							}
-						},
-						{
 							"lists": {
 								"type": "panel",
 								"anchor_from": "buttom_left",
@@ -136,7 +113,7 @@
 												{
 													"binding_name": "#scoreboard_sidebar_size",
 													"binding_type": "global",
-													"binding_name_override": "#collection_length"
+													"binding_name_override": ""
 												}
 											]
 										}
