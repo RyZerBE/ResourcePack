@@ -59,7 +59,7 @@
 			{
 				"main": {
 					"type": "image",
-					"texture": "textures/ui/Black",
+					"texture": "textures/ui/dark",
 					"alpha": 0.5,
 					"size": [
 						"100%cm",
