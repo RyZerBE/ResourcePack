@@ -46,7 +46,7 @@
 											"bindings": [
 												{
 													"binding_type": "global",
-													"binding_name": "#objective_sidebar_name",
+													"binding_name": "",
 													"binding_name_override": "#texture"
 												}
 											]
