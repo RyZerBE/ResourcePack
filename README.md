@@ -1,6 +1,8 @@
 # ResourcePack
 Emojis werden noch geupdatet ich mache sie jetzt erstmal nur in die Liste!
-### List Unicode
+
+
+### Public
 |               Name               | Character | Nummer |                     In game                    |
 |:--------------------------------:|:---------:|:-------:|:----------------------------------------------:|
 |             happy                   |          |  0      |![0](https://cdn.discordapp.com/attachments/926824646735716355/926824692730441738/1.png)|
@@ -28,10 +30,6 @@ Emojis werden noch geupdatet ich mache sie jetzt erstmal nur in die Liste!
 |             monkey                   |          |  40      |![40](https://cdn.discordapp.com/attachments/926824646735716355/930223427745370183/40.png)|
 |             wolf                   |          |  41      |![41](https://cdn.discordapp.com/attachments/926824646735716355/930223427992813578/41.png)|
 |             chicken                   |          |  42      |![42](https://cdn.discordapp.com/attachments/926824646735716355/930223428231921814/42.png)|
-|             time                   |          |  C0      |![C0](https://cdn.discordapp.com/attachments/926824646735716355/937654779004452884/C0.png)|
-|             clock                   |          |  C1      |![C1](https://cdn.discordapp.com/attachments/926824646735716355/937654779323232297/C1.png)|
-|             checkmark                   |          |  C2      |![C2](https://cdn.discordapp.com/attachments/926824646735716355/937654779608461362/C2.png)|
-|             x                   |     |  C3      |![C3](https://cdn.discordapp.com/attachments/926824646735716355/937654779847540756/C3.png)|
 |             thinkies                 |          |  D0      |![D0](https://cdn.discordapp.com/attachments/926824646735716355/926920165654921296/D0.png)|
 |             hmmm                   |          |  D1      |![D1](https://cdn.discordapp.com/attachments/926824646735716355/926920165969522768/D1.png)|
 |             feelsbadman                   |          |  D2      |![D2](https://cdn.discordapp.com/attachments/926824646735716355/926971119897047040/D2.png)|
@@ -54,3 +52,21 @@ Emojis werden noch geupdatet ich mache sie jetzt erstmal nur in die Liste!
 |             matrix                   |          |  FD      |![]()|
 |             broxstar                   |          |  FE      |![]()|
 |             Yocker                   |          |  FF      |![FF](https://cdn.discordapp.com/attachments/926824646735716355/926917224936144956/yes.png)|
+|             a                   |     a     |  F      |![]()|
+
+
+### Gui
+|               Name               | Character | Nummer |                     In game                    |
+|:--------------------------------:|:---------:|:-------:|:----------------------------------------------:|
+|             d_xbox                   |          |  00      |![00](https://cdn.discordapp.com/attachments/926824646735716355/939543413731246080/00.png)|
+|             d_switch                   |          |  01      |![01](https://cdn.discordapp.com/attachments/926824646735716355/939543414108721192/01.png)|
+|             d_ps1                   |          |  02      |![02](https://cdn.discordapp.com/attachments/926824646735716355/939543414335217724/02.png)|
+|             d_ps2                   |          |  03      |![03](https://cdn.discordapp.com/attachments/926824646735716355/939543414616260659/03.png)|
+|             d_android                   |          |  04      |![04](https://cdn.discordapp.com/attachments/926824646735716355/939543414876295218/04.png)|
+|             d_ios                   |          |  05      |![05](https://cdn.discordapp.com/attachments/926824646735716355/939543415090200659/05.png)|
+|             sb_time                   |          |  10      |![10](https://cdn.discordapp.com/attachments/926824646735716355/937654779004452884/C0.png)|
+|             sb_clock                   |         |  11      |![11](https://cdn.discordapp.com/attachments/926824646735716355/937654779323232297/C1.png)|
+|             sb_checkmark                   |          |  12      |![12](https://cdn.discordapp.com/attachments/926824646735716355/937654779608461362/C2.png)|
+|             sb_x                   |          |  13      |![13](https://cdn.discordapp.com/attachments/926824646735716355/937654779847540756/C3.png)|
+|             sb_kills                   |          |  14      |![14](https://cdn.discordapp.com/attachments/926824646735716355/939533910184951808/C4.png)|
+|             sb_deaths                   |          |  15      |![15](https://cdn.discordapp.com/attachments/926824646735716355/939533910365327370/C5.png)|
