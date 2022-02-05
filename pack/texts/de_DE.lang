@@ -1,4 +1,12 @@
-menu.returnToGame=§aSpiel fortsetzen
-pauseScreen.back=§aSpiel fortsetzen
+####################################################
+#
+#	   TexturepackBE / discord.texturepack.be
+#
+#
+#                  www.texturepack.be			
+####################################################
+menu.returnToGame=§aSpiel fortsetzten
+pauseScreen.back=§aSpiel fortsetzten
 pauseScreen.quit=§cRyzer.BE verlassen :(
 pauseScreen.secondaryClientLeave=§cRyzer.BE verlassen :(
+####################################################
